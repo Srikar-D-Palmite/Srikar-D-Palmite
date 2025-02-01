@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Srikar</h1>
-<h3 align="center">A passionate coder</h3>
+<h1 align="center">Hi 👋, I am Srikar</h1>
+<h3 align="center">A passionate coder and Master's student at the University of Florida</h3>
 
 - 📫 How to reach me **glintingcarp@gmail.com**
 
