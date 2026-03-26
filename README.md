@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Srikar</h1>
-<h3 align="center">A passionate coder and Master's student at the University of Florida</h3>
+<h3 align="center">I'm a Master's student at the University of Florida specializing in artisanally hand-crafted code</h3>
 
 - 📫 How to reach me **glintingcarp@gmail.com**
 
